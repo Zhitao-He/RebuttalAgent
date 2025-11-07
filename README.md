@@ -42,14 +42,22 @@ A 70 K sample dataset. Each record stores:
 <Strategy> … </Strategy>
 <Response> … </Response>
 
+```
+## Quick Start
 
+```bash
+# 1. Clone the repository
+git clone https://github.com/Zhitao-He/RebuttalAgent
+cd RebuttalAgent
+
+# 2. Create & activate the conda environment
+conda env create -f environment.yml
+conda activate rebuttal-agent
 ```
 
 
 
-
-
-## 3. Construct data
+## Construct data
 Use following steps to construct data with our format:
 1. **Use preference.py to do review analysis**
 ```bash
