@@ -87,10 +87,10 @@ llamafactory-cli train train\rebuttal_agent.yaml
       title={Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind}, 
       author={Zhitao He and Zongwei Lyu and Yi R. Fung},
       year={2025},
-      eprint={2505.23224},
+      eprint={2505.xxx},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.23224}, 
+      url={https://arxiv.org/abs/2505.xxx}, 
 }
 ```
 
