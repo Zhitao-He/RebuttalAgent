@@ -10,7 +10,7 @@
 
 <sup></sup>Hong Kong University of Science and Technology
 
-[![ArXiv](https://img.shields.io/badge/arXiv-2505.23224-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.23224)
+[![ArXiv](https://img.shields.io/badge/arXiv-2505.23224-B31B1B.svg?logo=arxiv&logoColor=white)](RebuttalAgent_paper.pdf)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue)](https://huggingface.co/RebuttalAgent)
 
 </div>
