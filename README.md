@@ -19,7 +19,8 @@
 
 ## News
 
-- **2025/10/30:** 🔥 **Our code and models** are released!
+- **2025/10/31:** 🔥 **[Our models](https://huggingface.co/RebuttalAgent/RebuttalAgent)** are released!
+- **2025/10/30:** 🔥 **[Our code](https://github.com/Zhitao-He/RebuttalAgent)** is released!
 
 ---
 
