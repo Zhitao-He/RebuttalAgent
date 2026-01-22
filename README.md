@@ -78,6 +78,27 @@ llamafactory-cli train train\rebuttal_agent.yaml
    ```bash
    ./grpo_train.sh                # run inside your env
 
+
+## Citation
+
+```bibtex
+@misc{he2025danceinthechian,
+      title={Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind}, 
+      author={Zhitao He and Zongwei Lyu and Yi R. Fung},
+      year={2025},
+      eprint={2505.23224},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.23224}, 
+}
+```
+
+## License
+
+**Code:** Licensed under the [Apache 2.0 License](LICENSE).
+ **Dataset:** Licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+ 
+
 ##  Evaluation
 
 1. **Use ag_eval_ours.py to evaluate our model's response**
