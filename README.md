@@ -1,6 +1,6 @@
 # RebuttalAgent
 
-The official implementation of the paper titled [Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind]
+The official implementation of the paper titled [Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind] (Under review as a conference paper at ICLR 2026)
 
 ![Overview of our framework for RebuttalAgent](Framework.png)
 
