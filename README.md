@@ -82,14 +82,14 @@ llamafactory-cli train train\rebuttal_agent.yaml
 ## Citation
 
 ```bibtex
-@misc{he2025danceinthechian,
+@misc{he2026dancingchainsstrategicpersuasion,
       title={Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind}, 
-      author={Zhitao He and Zongwei Lyu and Yi R. Fung},
-      year={2025},
-      eprint={2505.xxx},
+      author={Zhitao He and Zongwei Lyu and Yi R Fung},
+      year={2026},
+      eprint={2601.15715},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.xxx}, 
+      url={https://arxiv.org/abs/2601.15715}, 
 }
 ```
 
