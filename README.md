@@ -78,6 +78,12 @@ llamafactory-cli train train\rebuttal_agent.yaml
    ```bash
    ./grpo_train.sh                # run inside your env
 
+##  Evaluation
+
+1. **Use ag_eval_ours.py to evaluate our model's response**
+```bash
+python ag_eval_ours.py --model #model name you want to test
+```
 
 ## Citation
 
@@ -99,8 +105,3 @@ llamafactory-cli train train\rebuttal_agent.yaml
  **Dataset:** Licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
  
 
-##  Evaluation
-
-1. **Use ag_eval_ours.py to evaluate our model's response**
-```bash
-python ag_eval_ours.py --model #model name you want to test
