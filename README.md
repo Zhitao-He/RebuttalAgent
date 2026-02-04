@@ -10,8 +10,11 @@
 
 <sup></sup>Hong Kong University of Science and Technology
 
-[![ArXiv](https://img.shields.io/badge/arXiv-2601.15715-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.15715)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue)](https://huggingface.co/RebuttalAgent)
+<p align="center">
+  <a href='https://rebuttalagent.github.io'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
+   <a href="https://arxiv.org/abs/2601.15715" target="_blank"><img src="https://img.shields.io/badge/arXiv-2601.15715-red"></a>
+  <a href="https://huggingface.co/RebuttalAgent" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-red%22"></a>
+</p >
 
 </div>
 
