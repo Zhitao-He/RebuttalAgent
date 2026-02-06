@@ -20,7 +20,7 @@
 
 
 ## 🎊 News
-- **2026/01/27:** 🔥 Our research has been featured by major tech media outlets: [**机器之心**](https://mp.weixin.qq.com/s/H_g-IBuK7iTA_pmOd5GV5w), [**网易新闻**](https://m.163.com/dy/article/KKTURJ4R0511AQHO.html), [**搜狐新闻**](https://m.sohu.com/a/983600779_211762?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334), and [**科技行者**](https://www.techwalker.com/2026/0127/3177790.shtml)!
+- **2026/02/05:** 🔥 Our research has been featured by major tech media outlets: [**机器之心**](https://mp.weixin.qq.com/s/H_g-IBuK7iTA_pmOd5GV5w), [**网易新闻**](https://m.163.com/dy/article/KKTURJ4R0511AQHO.html), [**搜狐新闻**](https://m.sohu.com/a/983600779_211762?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334), and [**科技行者**](https://www.techwalker.com/2026/0127/3177790.shtml)! If you find this useful, please give us a star 🌟
 - **2026/01/26:** 🥳 Our work **RebuttalAgent** has been accepted by **ICLR 2026**!
 - **2025/10/31:** 🚀 **[Our models](https://huggingface.co/RebuttalAgent/RebuttalAgent)** are released!
 - **2025/10/30:** 💻 **[Our code](https://github.com/Zhitao-He/RebuttalAgent)** is released!
