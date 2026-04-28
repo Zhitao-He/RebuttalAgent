@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind (ICLR 2026)
+# (ICLR 2026) Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind 
 
 </div>
 
