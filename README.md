@@ -91,14 +91,13 @@ python ag_eval_ours.py --model #model name you want to test
 ## Citation
 
 ```bibtex
-@misc{he2026dancingchainsstrategicpersuasion,
-      title={Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind}, 
-      author={Zhitao He and Zongwei Lyu and Yi R Fung},
-      year={2026},
-      eprint={2601.15715},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2601.15715}, 
+@inproceedings{
+  he2026dancing,
+  title={Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind},
+  author={Zhitao He and Zongwei LYU and Yi R. Fung},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=zkCZDdeS9s}
 }
 ```
 
